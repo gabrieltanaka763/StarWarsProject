@@ -2,6 +2,7 @@
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&style=for-the-badge)](https://www.w3.org/TR/html52/)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&style=for-the-badge)](https://www.w3.org/Style/CSS/specs)
+[![CSS]
 
 ### Front End para Personagens LEGO de Star Wars
 Introdução
