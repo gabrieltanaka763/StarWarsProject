@@ -1,5 +1,8 @@
 # Star Wars Project
 
+[![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&style=for-the-badge)](https://www.w3.org/TR/html52/)
+[![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&style=for-the-badge)](https://www.w3.org/Style/CSS/specs)
+
 ### Front End para Personagens LEGO de Star Wars
 Introdução
 Este é um projeto de desenvolvimento de front-end para uma aplicação web que permite visualizar e interagir com personagens LEGO de Star Wars. A aplicação é desenvolvida utilizando HTML, CSS, JavaScript e o framework Vue.js.
