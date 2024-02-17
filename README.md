@@ -1,4 +1,13 @@
-# Star Wars Project
+
+<div style="display: inline_block">
+  <h1>
+    Star Wars Project
+  </h1>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+</div>
 
 
 
@@ -22,25 +31,24 @@ Este é um projeto de desenvolvimento de front-end para uma aplicação web que 
 
 #
 ### Tecnologias Utilizadas
-HTML5: Estruturação do conteúdo.
-CSS3: Estilização e layout da aplicação.
-JavaScript: Lógica de interatividade e manipulação do DOM.
-Vue.js: Framework JavaScript progressivo para construção de interfaces de usuário.
-Vue Router: Gerenciamento de rotas na aplicação.
-VueX: Gerenciamento de estado centralizado para a aplicação.
+
+- HTML5: Estruturação do conteúdo.
+- CSS3: Estilização e layout da aplicação.
+- JavaScript: Lógica de interatividade e manipulação do DOM.
+- Vue.js: Framework JavaScript progressivo para construção de interfaces de usuário.
 
 #
 ### Estrutura de Arquivos
-index.html: Página principal da aplicação.
-styles.css: Estilos CSS para a aplicação.
-app.js: Arquivo principal JavaScript, inicializa o aplicativo Vue.js e configuração de rotas.
+- index.html: Página principal da aplicação.
+- styles.css: Estilos CSS para a aplicação.
+- app.js: Arquivo principal JavaScript, inicializa o aplicativo Vue.js e configuração de rotas.
 
 #
 ### Instalação e Uso
-Clone o repositório do projeto: git clone <URL_DO_REPOSITÓRIO>.
-Navegue até o diretório do projeto: cd front-end-lego-starwars.
-Abra o arquivo index.html em um navegador web.
+- Clone o repositório do projeto: git clone <URL_DO_REPOSITÓRIO>.
+- Navegue até o diretório do projeto: cd front-end-lego-starwars.
+- Abra o arquivo index.html em um navegador web.
 
+#
 
-Autor
 Este projeto foi desenvolvido por Gabriel Tanaka.
