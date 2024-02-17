@@ -1,4 +1,4 @@
-# star-wars-projects
+# Star Wars Project
 
 ### Front End para Personagens LEGO de Star Wars
 Introdução
